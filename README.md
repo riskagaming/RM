@@ -16,7 +16,7 @@ Script ini di modifikasi sama saya sendiri XP-TN
 ```bash
 > Support My Github😘
 > Jangan Lupa follow github saya🤗
-> jika error lapor ke Pembuat script chat wa link ada di github 
+> jika error lapor ke Pembuat script chat wa link ada di github wa.me/+62895355566000
 ```
 ### Cara Installnya
 Script ini di modifikasi sama saya sendiri.
